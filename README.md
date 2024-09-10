@@ -38,4 +38,4 @@
    npm run dev
    ```
    
-Para acceder a la [documentación](https://documenter.getpostman.com/view/19546457/2sAXjRW9u1) de Postman 
+Para acceder a la [documentación](https://documenter.getpostman.com/view/23486865/2sAXjSyorP) de Postman 
